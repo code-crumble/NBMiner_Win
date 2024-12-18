@@ -1,0 +1,35 @@
+[04:23:30] INFO - ----------------------------------------------
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - |         NBMiner - Crypto GPU Miner         |
+[04:23:30] INFO - |                    42.3                    |
+[04:23:30] INFO - |                                            |
+[04:23:30] INFO - ----------------------------------------------
+[04:23:30] INFO - ------------------- System -------------------
+[04:23:30] INFO - OS:     Windows 10 Version 2009, 10.0.26100
+[04:23:30] INFO - CPU:    Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+[04:23:30] INFO - RAM:    4308 MB / 16177 MB
+[04:23:30] INFO - VMEM:   10107 MB / 30001 MB
+[04:23:30] INFO - CU_DRV: 12.7, 566.14
+[04:23:30] INFO - ------------------- Config -------------------
+[04:23:30] INFO - ALGO:   kawpow
+[04:23:30] INFO - URL:    stratum+ssl://kp.unmineable.com:4444
+[04:23:30] INFO - USER:   RVN:RHJAm85JGrqv4G2Ynahnd9aG4JLidzwURA.unmineable_worker_ypeacdfd
+[04:23:30] INFO - TEMP:   limit 90C, start 85C
+[04:23:30] INFO - ------------------- Device -------------------
+[04:23:30] INFO -  |ID|PCI|  CC| Memory| CU| RamType| RamVendor|
+[04:23:30] INFO - *| 0|  1|  75|  4095M| 16|   GDDR6|    Micron| NVIDIA GeForce GTX 1650 Ti
+[04:23:31] INFO - ----------------------------------------------
+[04:23:31] INFO - kawpow - Logging in to kp.unmineable.com(178.62.28.102):4444 ...
+[04:23:31] INFO - Set extranonce: 94
+[04:23:31] INFO - kawpow - Login succeeded.
+[04:23:31] INFO - API:  0.0.0.0:22333
+[04:23:31] INFO - API server started.
+[04:23:31] INFO - kawpow - New job: kp.unmineable.com:4444, ID: 2602, HEIGHT: 3633282, DIFF: 4.295G
+[04:23:31] INFO - mining.extranonce.subscribe succeeded.
+[04:23:31] INFO - Device 0 started, Free mem = 3292 MB.
